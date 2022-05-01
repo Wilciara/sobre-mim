@@ -25,3 +25,7 @@ https://www.loom.com/share/43bc168d668d4138ad7f41176eccabaf
 https://www.loom.com/share/43bc168d668d4138ad7f41176eccabaf
 
 Clique aqui para ver o [Site](https://wilciarawertz.vercel.app/)
+</br>
+</br>
+![image](https://user-images.githubusercontent.com/94201226/166156257-f2f84450-4708-4208-b4e6-0076c206e402.png) ![image](https://user-images.githubusercontent.com/94201226/166156257-f2f84450-4708-4208-b4e6-0076c206e402.png) ![image](https://user-images.githubusercontent.com/94201226/166156257-f2f84450-4708-4208-b4e6-0076c206e402.png)  ![image](https://user-images.githubusercontent.com/94201226/166156257-f2f84450-4708-4208-b4e6-0076c206e402.png)
+</br>
