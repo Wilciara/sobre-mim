@@ -16,6 +16,11 @@ body{
    color:white;
 }
 
+.emprestimo{
+    background: white;
+    font-family: 'Arial', Times, serif;
+    color:orange;
+}
 
 header .container{
     display:flex;
@@ -31,6 +36,7 @@ header .logo{
     color: var(--white);
     font-family: 'Arial Black', Times;
     font-size:40px;
+   
 }
 
 header nav a{
@@ -41,11 +47,11 @@ header nav a{
 
 
 header nav a:hover{
-    color:#fff;
+    color:orangered;
 }
 
 .entrar{
-    background-color: var(--white);
+    background-color: orange;
     border:none;
     color: white;
     padding:10px 20px;
@@ -56,11 +62,11 @@ header nav a:hover{
 }
 
 /*filme principal*/
-.filme-principal{
+.principal{
     font-size:16px;
     background: linear-gradient(rgba(0,0,0,.0),rgba(0,0,0,.40)100%),  url('https://media.moneytimes.com.br/uploads/2019/04/money-1632055-640.jpg');
 
-    height:500px;
+    height:600px;
     background-size:cover;
  
 
@@ -71,13 +77,13 @@ header nav a:hover{
 }
 
 
-.filme-principal .descricao{
+.principal .descricao{
     margin-top: 10px;
     margin-bottom: 40px;
 }
 
 
-.filme-principal .titulo{
+.principal .titulo{
     margin-top: 15%;
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
@@ -111,13 +117,13 @@ header nav a:hover{
     margin-left: 20px;
 }
 
-.filme-principal .container{
+.principal .container{
     width: 70%;
 }
 
 .box-filme{
-    height: 100%;
-    width: 100%;
+    height: 10%;
+    width: 10%;
     display: block;
     cursor: pointer;
 }
@@ -130,7 +136,7 @@ header nav a:hover{
 
 .back{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.30)80%),  url('https://scontent.fjdf2-2.fna.fbcdn.net/v/t39.30808-6/279603881_675180083567485_8770418766497142721_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=eq0_VUeewgAAX-Zos-p&tn=Eu7_FZ5HyMrl1Djn&_nc_ht=scontent.fjdf2-2.fna&oh=00_AT9ZLOLJNLAcHU7u2YxT7lG3D95YdJkUU7QwntIU5FllOQ&oe=627378F8');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.10)80%),  url('https://scontent.fjdf2-2.fna.fbcdn.net/v/t39.30808-6/279603881_675180083567485_8770418766497142721_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=eq0_VUeewgAAX-Zos-p&tn=Eu7_FZ5HyMrl1Djn&_nc_ht=scontent.fjdf2-2.fna&oh=00_AT9ZLOLJNLAcHU7u2YxT7lG3D95YdJkUU7QwntIU5FllOQ&oe=627378F8');
     height:900px;
     background-size:cover;
     display: flex;
@@ -144,6 +150,15 @@ header nav a:hover{
     justify-content: center;
     align-items: center;
 }
+
+.footer{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #1d1b1b;
+}
+
 /*
 .logoemprestimo{
 
